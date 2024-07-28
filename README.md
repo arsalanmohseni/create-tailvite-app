@@ -8,3 +8,4 @@ To install, open your terminal and type this command:
 ## Warning
 Make sure that you have node.js and vite installed and make sure you have final version of all of them
 # create-vitetailui-app
+# create-vitetailui-app
