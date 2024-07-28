@@ -21,4 +21,4 @@ Create a new Tailwind CSS + Vite + Daisyui project in seconds.
 
 ## Warning
 
-Make sure that you have node.js and vite installed and make sure you have final version of all of them
+Make sure that you have node.js and vite installed and make sure you have final version of all of **them**
