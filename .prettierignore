@@ -1,0 +1,7 @@
+node_modules
+bun.lockb
+*.exe
+*.ttf
+*.otf
+*.woff
+*.woff2
